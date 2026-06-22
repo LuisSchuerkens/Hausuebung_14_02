@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-RR2IS8O
+Date of Test: 2026-06-22 16:57:43
+Bubble Sort Time: 5.320405 seconds
+Quick Sort Time: 0.011180 seconds
+
